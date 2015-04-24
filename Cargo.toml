@@ -1,0 +1,4 @@
+[package]
+name = "ozone"
+version = "0.0.1"
+authors = ["Mike Marcacci <mike.marcacci@gmail.com>"]
