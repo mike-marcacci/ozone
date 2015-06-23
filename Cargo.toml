@@ -2,7 +2,7 @@
 name = "ozone"
 version = "0.0.1"
 description = "Pure-rust key/value store based on BoltDB"
-keywords = ["database","key/value","persistance","BoltDB","LevelDB"]
+keywords = ["database","persistance","BoltDB","LevelDB"]
 authors = ["Mike Marcacci <mike.marcacci@gmail.com>"]
 
 readme = "README.md"
