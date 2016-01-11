@@ -6,7 +6,7 @@ keywords = ["database","persistance","BoltDB","LevelDB"]
 authors = ["Mike Marcacci <mike.marcacci@gmail.com>"]
 
 readme = "README.md"
-license = "MIT"
+license = "MIT OR Apache-2.0"
 
 documentation = "https://github.com/mike-marcacci/ozone"
 homepage = "https://github.com/mike-marcacci/ozone"
